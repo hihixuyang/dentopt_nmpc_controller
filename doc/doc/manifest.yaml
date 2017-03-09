@@ -1,0 +1,21 @@
+actions: []
+authors: Jan Dentler
+brief: ''
+bugtracker: ''
+depends:
+- catkin
+- roscpp
+- message_runtime
+- std_msgs
+- rospy
+- message_generation
+description: A real-time nonlinear model predictive control package for single and
+  multi-agent systems
+license: GPLv3
+maintainers: Jan DENTLER <jan.dentler@uni.lux>
+msgs:
+- VrepInfo
+package_type: package
+repo_url: ''
+srvs: []
+url: http://wiki.ros.org/wiki/dentopt_nmpc_controller

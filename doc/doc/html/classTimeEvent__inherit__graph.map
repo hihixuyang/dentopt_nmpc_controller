@@ -1,0 +1,10 @@
+<map id="TimeEvent" name="TimeEvent">
+<area shape="rect" id="node3" href="$classTimeEvent__addAgent.html" title="TimeEvent_addAgent" alt="" coords="271,5,417,32"/>
+<area shape="rect" id="node4" href="$classTimeEvent__addConstraint.html" title="TimeEvent_addConstraint" alt="" coords="257,56,431,83"/>
+<area shape="rect" id="node5" href="$classTimeEvent__addCoupling.html" title="TimeEvent_addCoupling" alt="" coords="262,107,426,133"/>
+<area shape="rect" id="node6" href="$classTimeEvent__changeParameters.html" title="TimeEvent_changeParameters" alt="" coords="243,157,445,184"/>
+<area shape="rect" id="node7" href="$classTimeEvent__removeAgent.html" title="TimeEvent_removeAgent" alt="" coords="259,208,429,235"/>
+<area shape="rect" id="node8" href="$classTimeEvent__removeConstraint.html" title="TimeEvent_removeConstraint" alt="" coords="247,259,441,285"/>
+<area shape="rect" id="node9" href="$classTimeEvent__removeCoupling.html" title="TimeEvent_removeCoupling" alt="" coords="251,309,437,336"/>
+<area shape="rect" id="node2" href="$classEvent.html" title="Event" alt="" coords="5,157,61,184"/>
+</map>
